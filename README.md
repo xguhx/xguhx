@@ -7,7 +7,7 @@ const gustavoTavares = {
   contact: "gust.tavaresx@gmail.com",
   portfolio: "https://gustavodev-six.vercel.app/",
 
-  aboutMe: "Newly graduate Computer Programming and Analysis at Seneca College, In love with programming and technology.",
+  aboutMe: "Newly graduated Computer Programming and Analysis at Seneca College, In love with programming and technology.",
   currentLearning:
     "I’m currently learning Typescript, ReactJs, Algorithms and Data structures.",
 
