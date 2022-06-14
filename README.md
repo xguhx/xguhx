@@ -28,6 +28,7 @@ const gustavoTavares = {
       "Handlebars",
       "PHP",
       "ASP.NET MVC",
+      Android Studio
     ],
   },
 
