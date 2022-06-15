@@ -16,7 +16,7 @@ const gustavoTavares = {
   speciality: "Full-stack",
 
   languageAndTools: {
-    languages: ["Javascript", "Typescript", "C#", "C++", "C", "Java"],
+    languages: ["JavaScript", "TypeScript", "C#", "C++", "C", "Java"],
     databases: ["SQL", "MongoDB", "AS400"],
     stack: ["MERN", "MEAN"],
     cloud: ["AWS", "Microsoft Azure"],
