@@ -4,7 +4,7 @@
 
 ```js
 const gustavoTavares = {
-  contact: "gust.tavaresx@gmail.com",
+  contact: "gustavotavaresdev@gmail.com",
   portfolio: "www.tavaresgustavo.com",
 
   aboutMe: "Newly graduated Computer Programming and Analysis at Seneca College, In love with programming and technology.",
@@ -26,7 +26,7 @@ const gustavoTavares = {
       "Linux",
       "HTML5",
       "CSS/SCSS",
-      "Handlebars",
+      "Template Engines",
       "PHP",
       "ASP.NET MVC",
       "Android Studio",
