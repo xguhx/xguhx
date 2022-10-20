@@ -9,7 +9,7 @@ const gustavoTavares = {
 
   aboutMe: "Newly graduated Computer Programming and Analysis at Seneca College, In love with programming and technology.",
   currentLearning:
-    "I’m currently learning TypeScript, ReactJs, Algorithms and Data structures.",
+    "I’m currently learning Python3, Algorithms and Data structures.",
 
   school: "Seneca College",
   program: "Computer Programming and Analysis",
