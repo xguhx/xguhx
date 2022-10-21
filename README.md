@@ -1,5 +1,5 @@
 ## Hi there, My name is Gustavo Tavares
-### And  here is more about me:
+### And here is more about me:
 
 
 ```js
@@ -9,7 +9,7 @@ const gustavoTavares = {
 
   aboutMe: "Newly graduated Computer Programming and Analysis at Seneca College, In love with programming and technology.",
   currentLearning:
-    "I’m currently learning Python3, Algorithms and Data structures.",
+    "I’m currently learning Python3, Java Spring Boot and Hibernate.",
 
   school: "Seneca College",
   program: "Computer Programming and Analysis",
