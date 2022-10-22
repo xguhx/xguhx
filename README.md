@@ -20,7 +20,7 @@ const gustavoTavares = {
     databases: ["SQL", "MongoDB", "AS400"],
     stack: ["MERN", "MEAN"],
     cloud: ["AWS", "Microsoft Azure"],
-    architectures: ["microservices", "event-driven", "design system pattern"],
+    architectures: ["Microservices", "Event-driven", "MVC"],
     other: [
       "Git",
       "Linux",
