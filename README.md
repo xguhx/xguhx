@@ -13,7 +13,7 @@ const gustavoTavares = {
 
   school: "Seneca College",
   program: "Computer Programming and Analysis",
-  speciality: ["Software Developer", "Web Developer"]
+  speciality: ["Software Developer", "Web Developer"],
 
   languageAndTools: {
     languages: ["JavaScript", "TypeScript", "C#", "C++", "C", "Java"],
