@@ -7,7 +7,7 @@ const gustavoTavares = {
   contact: "gustavotavaresdev@gmail.com",
   portfolio: "www.tavaresgustavo.com",
 
-  aboutMe: "Newly graduated Computer Programming and Analysis at Seneca College, In love with programming and technology.",
+  aboutMe: "Software and Web Developer, In love with programming and technology.",
   currentLearning:
     "I’m currently learning Python3, Java Spring Boot and Hibernate.",
 
