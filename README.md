@@ -8,8 +8,7 @@ const gustavoTavares = {
   portfolio: "www.tavaresgustavo.com",
 
   aboutMe: "Software and Web Developer, In love with programming and technology.",
-  currentLearning:
-    "I’m currently learning Python3, Java Spring Boot and Hibernate.",
+  currentLearning: "I’m currently learning Python3, Java Spring Boot and Hibernate.",
 
   school: "Seneca College",
   program: "Computer Programming and Analysis",
